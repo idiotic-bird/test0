@@ -21,3 +21,4 @@ while abs(x_0 - x_1) > 1e-10:
     idx += 1
     print(idx)
 plt.plot(result_analysis)
+# mark
